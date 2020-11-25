@@ -1,1 +1,0 @@
-# numerico-trabalho-parcial
